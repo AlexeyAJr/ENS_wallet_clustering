@@ -13,7 +13,8 @@ Clustering of Ethereum Name Service (ENS) token wallets into **whales**, **marke
 
 ## Data
 
-CSV with ENS token transfers. Required columns: `ts`, `from_address`, `to_address`, `value`, `price`.
+CSV with ENS token transfers. Download: https://drive.google.com/file/d/1jwHpiE7mpO8FWcHyKO-J8QF2QvBf8Dx2/view?usp=sharing
+Required columns: `ts`, `from_address`, `to_address`, `value`, `price`.
 
 ## Usage
 
